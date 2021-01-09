@@ -137,6 +137,3 @@ export default {
 
 <style lang="scss" scoped>
 </style>
-
-10467.391127
-419.482046
